@@ -27,7 +27,7 @@ The following principles will guide the inaugural NumPy Community Survey:
 <br>Project Priorities
 <br>Future of NumPy</p>
 
-<p>For more in-depth overview of the topics please refer to NumPy-survey-topics.md</p>
+<p>For more in-depth overview of the topics please refer to <a href="https://github.com/numpy/numpy-surveys/blob/master/NumPy-survey-topics.md">NumPy-survey-topics.md</a>.</p>
 
 <h2>Translations</h2>
 In order to reach out to the wider NumPy community, we would like to make the survey available in the following languages: Spanish, Portuguese, Russian, Hindi, Chinese and other languages.
