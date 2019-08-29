@@ -70,9 +70,6 @@
 <p>Yes
 <br>No</p>
 <br>
-<h4>How can we contact you?</h4>
-<p><i>enter e-mail address</i></p>
-<br>
 <h3>PROJECT PRIORITIES</h3>
 <h4>What do you consider a high priority for the NumPy project for the next 12 months?</h4>
 <p>Website redesign
