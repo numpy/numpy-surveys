@@ -1,4 +1,4 @@
-You know that NumPy is essential to the Python community. The NumPy team wants you to know that YOU, our user and developer community, are essential to us. That’s why we are putting together a team to create the inaugural NumPy Community Survey. We hope the feedback will provide insights that will help us to guide better decision-making about the development of NumPy as software and community.
+You know that NumPy is essential to the Python community. The NumPy team wants you to know that YOU, our user and developer community, are essential to us. That’s why we are putting together a team to create the inaugural NumPy Community Survey. We hope the feedback will provide insights that will help us to guide better decision-making about the development of NumPy as software and a community.
 
 <h1>NumPy Inaugural Community Survey Proposal</h1>
 
