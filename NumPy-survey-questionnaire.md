@@ -44,7 +44,7 @@
 <br>5+ years</p>
 <br>
 <h3>CONTRIBUTION</h3>
-<p>NumPy is supported largely by 10-15 active maintainers, with contributions from ~100 contributors each release. (Not bad for a project with 10-15 million users!) To continue maintaining it and add significant new features that support our user base and the whole ecosystem, we need a lot more help from the open source community. Besides programming and writing documentation, we are looking for volunteers experienced in web development, instructional design, marketing, community coordination, fundraising, grant writing, and much more.</p>
+<p>NumPy is supported largely by 10-15 active maintainers, with contributions from ~100 contributors each release. (Not bad for a project with 10-15 million users!) To continue maintaining it and add significant new features that support our user base and the whole ecosystem, we need a lot more help from the open source community. Besides programming and writing documentation, we are looking for volunteers experienced in web development, marketing, community coordination, fundraising and grant writing, developing educational materials, and much more.</p>
 <h4>Have you ever contributed to open source before?</h4>
 <p>Yes
 <br>No</p>
