@@ -50,7 +50,8 @@
 <br>No</p>
 <br>
 <h4>What open source projects have you made contributions?</h4>
-<p><i>allow text entry</i></p>
+<p><i>Multiple-check box list of 10-15 common high-profile PyData projects (SciPy, pandas, scikit-learn, etc.) based on stars/forks/commits</i>
+<br><i>Free allow text entry</i></p>
 <br>
 <h4>How did you choose a project for contribution?</h4>
 <p>I am an expert user of the open source software I’m contributing.
