@@ -10,6 +10,14 @@
 <br>
 <h4>What version of NumPy are you currently using? If you're not sure, please type "not sure"</h4>
 <br> 
+<h4>On what kind of system(s) do you use numpy regularly?</h4>
+<p><i>check all that apply</i></p>
+<br>Personal computer (laptop, desktop, workstation, etc.)
+<br>Cloud platforms (EC2, azure, google cloud, binder, etc.)
+<br>Dedicated compute server (non-cloud)
+<br>Miniature computers/IoT (raspberry pi, etc.)
+<br>Other (allow text entry)
+<br>
 <h4>What is your current field of work or study?</h4>
 <p><i>a dropdown select list</i></p>
 <br>
