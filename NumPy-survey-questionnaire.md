@@ -18,6 +18,14 @@
 <br>Miniature computers/IoT (raspberry pi, etc.)
 <br>Other (allow text entry)
 <br>
+<h4>On which operating system(s) do you use numpy?</h4>
+<p><i>check all that apply</i></p>
+<br>Linux
+<br>OSX
+<br>Windows
+<br>Other
+<br>Not sure
+<br>
 <h4>What is your current field of work or study?</h4>
 <p><i>a dropdown select list</i></p>
 <br>
