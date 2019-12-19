@@ -8,7 +8,7 @@
 <p>Language preferred: <i>a dropdown select list</i></p>
 <p>Country of residence: <i>a dropdown select list</i></p>
 <br>
-<h4>What version of NumPy are you currently using?</h4>
+<h4>What version of NumPy are you currently using? If you're not sure, please type "not sure"</h4>
 <br> 
 <h4>What field of science or industry are you in?</h4>
 <p><i>a dropdown select list</i></p>
