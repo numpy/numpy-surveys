@@ -7,7 +7,7 @@ NumPy is the open source foundational package for scientific computing in the Py
 
 #### Slide 2. Infographic (by Shaloo Shalini)
 
-_(Explain the infographics.)_
+_(Explain the [infographic](https://github.com/numpy/numpy-surveys/pull/3).)_
 
 <span style="text-decoration:underline;">Key ideas and thoughts:</span>
 
