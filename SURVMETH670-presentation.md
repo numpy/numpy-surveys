@@ -1,35 +1,46 @@
 ## PRESENTATION FOR SURVMETH 670
+#### Slide 1. Title
 
-#### Slide 1. Intro
-NumPy is the open source foundational package for scientific computing in the Python programming language. November 2019 marked the 13th anniversary of the release of NumPy 1.0. What started as a humble project by a dedicated core of the user-developers has since transformed into a foundational component of the widely-adopted scientific Python ecosystem, displacing commercially-developed software across many STEM disciplines.
+<br>
+ 
+#### Slide 2. Ross Barnowski - intro 
 
 <br>
 
-#### Slide 2. Infographic (by Shaloo Shalini)
+#### Slide 3. NumPy - intro
 
-_(Explain the [infographic](https://github.com/numpy/numpy-surveys/pull/3).)_
+NumPy is a library that adds efficient numerical and array computation to Python. November 2019 marked the 13th anniversary of the release of NumPy 1.0. What started as a humble project by a dedicated core of the user-developers has since transformed into a foundational component of the widely-adopted scientific Python ecosystem, displacing commercially-developed software across many STEM disciplines.
 
-<span style="text-decoration:underline;">Key ideas and thoughts:</span>
+<br>
 
+#### Who uses NumPy?
+Industry: Google, Netflix, State Farm, Walmart, Amazon, Tesla
+<br>
+Research: NASA, NIH, Mayo Clinic, BIDS, University of Michigan
+<br>
+Education: most courses on Data Science or Machine Learning with Python
+
+<br>
+
+#### Slide 4. Infographic
+
+<br>
+
+#### Slide 5. Google Trends
+(Explain the infographic.)
+Key ideas and thoughts:
 1. The recent explosion of interest in data science and machine learning has accelerated the pace of adoption of NumPy, resulting in an estimated 10-15 million users from a wide range of fields. 
-
 2. We hope to get better data for the right half of the image after the completion of this survey.
-
 3. Despite its significance and maturity, NumPy is supported largely by 10-15 active maintainers, most of whom are volunteers.
 
 <br>
 
-#### Slide 3. Who uses Numpy?
-NASA, Google, Netflix, Walmart, Amazon, BIDS, University of Michigan and many other well-known and highly-reputable institutions and companies.
-
-<br>
-
-#### Slide 4. Problem Statement
+#### Slide 6. Problem Statement
 Having limited human and financial resources is a common challenge for open source projects. The NumPy leadership team would like to gain a better understanding of the ever-growing NumPy user community, their experiences, and expectations for the project. This insight will help the team to better guide and prioritize decision-making about the development of NumPy as software and a community.
 
 <br>
 
-#### Slide 5. Objectives of the Community Survey
+#### Slide 7. Objectives of the Community Survey
 **LISTEN** Invite all NumPy stakeholders to share their thoughts about NumPy as software and as a community project.
 
 **GAIN INSIGHTS** We hope the collected dataset will provide us with a better understanding of the ever-growing NumPy user and contributor community, their experiences with NumPy and within the entire open source ecosystem.
@@ -38,7 +49,7 @@ Having limited human and financial resources is a common challenge for open sour
 
 <br>
 
-#### Slide 6. Guiding Principles
+#### Slide 8. Guiding Principles
 
 The following principles will guide the inaugural NumPy Community Survey:
 
@@ -48,7 +59,16 @@ The following principles will guide the inaugural NumPy Community Survey:
 
 <br>
 
-#### Slide 7. Topics & Questions
+*TRANSPARENCY* We are informed and motivated by the principles of open source and open data. Our primary deliverable for this project is a dataset on backgrounds, experiences, motivations, and other attitudinal data related to the NumPy community that is freely available to all stakeholders and interested parties.
+
+*CONFIDENTIALITY* We always prioritize the privacy and safety of respondents, and the scientific rigor of the survey design and fielding process. Where these come into conflict with the principle of transparency, we err on the side of privileging respondent privacy and the scientific integrity of the data collection process.
+Releasing the data publicly entails tradeoffs in order to maintain respondent privacy, mostly in the form of the kinds of data we can collect and release. We aim not to collect any personally identifying information, such as email addresses. In the event that identifying information is provided, such as in open responses, we will remove it before releasing the data publicly. Some data, such as gender, is not directly identifying and has been widely requested, but when combined with other data, may make respondents identifiable. Though we hope and intend to release all of the data that we collect, we may withhold data if necessary to prevent identification of individuals.
+
+*SUSTAINED ACTION* This survey is a tool for a meaningful and structured dialogue with all stakeholders of the NumPy project. The work begins, not ends, with survey results. The true value of the collected data is in driving positive and sustainable change within the NumPy community with more efficiency and impact.
+
+<br>
+
+#### Slide 9. Topics & Questions
 
 This is an **overview of the topics** we would like to explore with the inaugural NumPy Community Survey:
 
@@ -108,13 +128,13 @@ What kind of future do NumPy users and contributors envision for NumPy (further 
 
 <br>
 
-#### Slide 8. Translations
+#### Translations
 
-In order to reach out to the wider NumPy community, we would like to make the survey available in the following languages: Spanish, Portuguese, Russian, Hindi, Chinese and other languages. Responses in English for the open questions will be encouraged for easy survey processing.
+Our goal is to write the survey instrument with global audiences in mind and avoid North American -centric concepts or terminology. Furthermore, we will make the survey available in the following languages: English, Spanish, Portuguese, Russian, Hindi, Chinese, and Japanese. Responses in English for the open questions will be encouraged for easy survey processing.
 
 <br>
 
-#### Slide 9. Survey Results
+#### Survey Results
 
 The aggregated data and analysis results will be released under CC0-1.0 for anyone to use and learn from.
 
