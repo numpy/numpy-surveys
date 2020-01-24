@@ -32,11 +32,11 @@ Having limited human and financial resources is a common challenge for open sour
 <br>
 
 #### Slide 7. Objectives of the Community Survey
-*Listen* Invite all NumPy stakeholders to share their thoughts about NumPy as software and as a community project.
+**Listen** Invite all NumPy stakeholders to share their thoughts about NumPy as software and as a community project.
 
-*Gain insights* We hope the collected dataset will provide us with a better understanding of the ever-growing NumPy user and contributor community, their experiences with NumPy and within the entire open source ecosystem.
+**Gain insights** We hope the collected dataset will provide us with a better understanding of the ever-growing NumPy user and contributor community, their experiences with NumPy and within the entire open source ecosystem.
 
-*Take action* Develop (or refine) policies, processes, and practices that will help to strengthen and grow the NumPy community.
+**Take action** Develop (or refine) policies, processes, and practices that will help to strengthen and grow the NumPy community.
 
 <br>
 
@@ -50,12 +50,12 @@ The following principles will guide the inaugural NumPy Community Survey:
 
 <br>
 
-*Transperancy* We are informed and motivated by the principles of open source and open data. Our primary deliverable for this project is a dataset on backgrounds, experiences, motivations, and other attitudinal data related to the NumPy community that is freely available to all stakeholders and interested parties.
+**Transperancy** We are informed and motivated by the principles of open source and open data. Our primary deliverable for this project is a dataset on backgrounds, experiences, motivations, and other attitudinal data related to the NumPy community that is freely available to all stakeholders and interested parties.
 
-*Confidentiality* We always prioritize the privacy and safety of respondents, and the scientific rigor of the survey design and fielding process. Where these come into conflict with the principle of transparency, we err on the side of privileging respondent privacy and the scientific integrity of the data collection process.
+**Confidentiality** We always prioritize the privacy and safety of respondents, and the scientific rigor of the survey design and fielding process. Where these come into conflict with the principle of transparency, we err on the side of privileging respondent privacy and the scientific integrity of the data collection process.
 Releasing the data publicly entails tradeoffs in order to maintain respondent privacy, mostly in the form of the kinds of data we can collect and release. We aim not to collect any personally identifying information, such as email addresses. In the event that identifying information is provided, such as in open responses, we will remove it before releasing the data publicly. Some data, such as gender, is not directly identifying and has been widely requested, but when combined with other data, may make respondents identifiable. Though we hope and intend to release all of the data that we collect, we may withhold data if necessary to prevent identification of individuals.
 
-*Sustained action* This survey is a tool for a meaningful and structured dialogue with all stakeholders of the NumPy project. The work begins, not ends, with survey results. The true value of the collected data is in driving positive and sustainable change within the NumPy community with more efficiency and impact.
+**Sustained action** This survey is a tool for a meaningful and structured dialogue with all stakeholders of the NumPy project. The work begins, not ends, with survey results. The true value of the collected data is in driving positive and sustainable change within the NumPy community with more efficiency and impact.
 
 <br>
 
@@ -75,7 +75,7 @@ This is an **overview of the topics** we would like to explore with the inaugura
 
 <br>
 
-_NumPy Community Demographics_ NumPy has an estimated 10-15 million users. How representative is the NumPy community of the scientific computing and open source communities?
+**NumPy Community Demographics** NumPy has an estimated 10-15 million users. How representative is the NumPy community of the scientific computing and open source communities?
 
 What field of science has the largest number of NumPy users? And what industry?
 
@@ -89,7 +89,7 @@ Why do users choose NumPy over other available alternatives?
 
 To what extent are they engaged with, or even aware of, the NumPy development and maintenance, and the philosophy and values of open source software?
 
-_Contribution_ NumPy is supported largely by 10 active maintainers. (Not bad for a project with 10-15 million users!) To continue maintaining it and add significant new features that support our user base and the whole ecosystem, we need a lot more help from the open source community. Besides programming and writing documentation, we are looking for volunteers experienced in web development, marketing, community coordination, fundraising and grant writing, developing educational materials, and much more. Therefore we would like to find out the following:
+**Contribution** NumPy is supported largely by 10 active maintainers. (Not bad for a project with 10-15 million users!) To continue maintaining it and add significant new features that support our user base and the whole ecosystem, we need a lot more help from the open source community. Besides programming and writing documentation, we are looking for volunteers experienced in web development, marketing, community coordination, fundraising and grant writing, developing educational materials, and much more. Therefore we would like to find out the following:
 
 Why do people decide to contribute to open source?
 
@@ -99,13 +99,13 @@ Why have they chosen to contribute to NumPy?
 
 What prevents them from contributing to NumPy?
 
-_Mentorship_ Mentorship is critical to open source community sustainability and growth. What motivates experienced contributors to become mentors, and how do they select mentees?
+**Mentorship** Mentorship is critical to open source community sustainability and growth. What motivates experienced contributors to become mentors, and how do they select mentees?
 
 How do beginners connect with mentors within the open source community?
 
-_Project Priorities_ What do NumPy users and contributors deem to be high priority for the NumPy project in the next 12 months (e.g. specific new features, documentation, website, performance, reliability, packaging, etc.)?
+**Project Priorities** What do NumPy users and contributors deem to be high priority for the NumPy project in the next 12 months (e.g. specific new features, documentation, website, performance, reliability, packaging, etc.)?
 
-_Future of NumPy_ What kind of future do NumPy users and contributors envision for the NumPy project (further applications, maintenance model, etc.)?
+**Future of NumPy** What kind of future do NumPy users and contributors envision for the NumPy project (further applications, maintenance model, etc.)?
 
 <br>
 
