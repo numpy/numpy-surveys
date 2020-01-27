@@ -29,7 +29,7 @@
 <h4>What is your current field of work or study?</h4>
 <p><i>a dropdown select list</i></p>
 <br>
-<h4>What is your current position in your organization?</h4> 
+<h4>What is your current position in your organization (maybe Background, what about retired?)?</h4>
 <p><i>a dropdown select list:</i>
 <br>Software engineer
 <br>Data scientist
@@ -59,6 +59,14 @@
 <br>3-5 years
 <br>5+ years</p>
 <br>
+
+<h4>How many languages besides Python are you familiar with?</h4>
+<p>No other language.
+<br>1
+<br>2-3
+<br>4+ languages</p>
+<br>
+
 <h3>CONTRIBUTION</h3>
 <p>NumPy is supported largely by 10-15 active maintainers, with contributions from ~100 contributors each release. (Not bad for a project with 10-15 million users!) To continue maintaining it and add significant new features that support our user base and the whole ecosystem, we need a lot more help from the open source community. Besides programming and writing documentation, we are looking for volunteers experienced in web development, marketing, community coordination, fundraising and grant writing, developing educational materials, and much more.</p>
 <h4>Have you ever contributed to open source before?</h4>
@@ -104,6 +112,9 @@
 <h4>What other significant changes would you like to see in NumPy?</h4>
 <p><i>allow text entry</i></p>
 <br>
+<h4>What was the most difficult or confusing (recent) experience with NumPy?</h4>
+<p><i>allow text entry</i></p>
+
 <h4>Do you think your organization may be interested in funding NumPy?</h4>
 <p>Yes
 <br>No
