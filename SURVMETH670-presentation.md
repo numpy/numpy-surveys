@@ -50,7 +50,7 @@ The following principles will guide the inaugural NumPy Community Survey:
 
 <br>
 
-**Transperancy** We are informed and motivated by the principles of open source and open data. Our primary deliverable for this project is a dataset on backgrounds, experiences, motivations, and other attitudinal data related to the NumPy community that is freely available to all stakeholders and interested parties.
+**Transparency** We are informed and motivated by the principles of open source and open data. Our primary deliverable for this project is a dataset on backgrounds, experiences, motivations, and other attitudinal data related to the NumPy community that is freely available to all stakeholders and interested parties.
 
 **Confidentiality** We always prioritize the privacy and safety of respondents, and the scientific rigor of the survey design and fielding process. Where these come into conflict with the principle of transparency, we err on the side of privileging respondent privacy and the scientific integrity of the data collection process.
 Releasing the data publicly entails tradeoffs in order to maintain respondent privacy, mostly in the form of the kinds of data we can collect and release. We aim not to collect any personally identifying information, such as email addresses. In the event that identifying information is provided, such as in open responses, we will remove it before releasing the data publicly. Some data, such as gender, is not directly identifying and has been widely requested, but when combined with other data, may make respondents identifiable. Though we hope and intend to release all of the data that we collect, we may withhold data if necessary to prevent identification of individuals.
@@ -123,8 +123,8 @@ The aggregated data and analysis results will be released under CC0-1.0 for anyo
 
 #### Slide 10. Meet your project coordinators from the NumPy Team
 
-Ross Barnowski
+Ross Barnowski - Postdoctoral scholar, scientific software developer at the [Berkeley Institute for Data Science](https://bids.berkeley.edu/)
 
-Ralf Gommers 
+Ralf Gommers - Director of [Quansight Labs](https://www.quansight.com/labs)
 
-Inessa Pawson
+Inessa Pawson - Executive director of [Albus Code](https://www.facebook.com/albuscode/) & [PyLadies SWFL](https://www.meetup.com/PyLadies-SWFL/) organizer
