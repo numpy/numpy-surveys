@@ -125,6 +125,8 @@ The aggregated data and analysis results will be released under CC0-1.0 for anyo
 
 Ross Barnowski - Postdoctoral scholar, scientific software developer at the [Berkeley Institute for Data Science](https://bids.berkeley.edu/)
 
+Sebastian Berg - Scientific software developer at the [Berkeley Institute for Data Science](https://bids.berkeley.edu/)
+
 Ralf Gommers - Director of [Quansight Labs](https://www.quansight.com/labs)
 
 Inessa Pawson - Executive director of [Albus Code](https://www.facebook.com/albuscode/) & [PyLadies SWFL](https://www.meetup.com/PyLadies-SWFL/) organizer
