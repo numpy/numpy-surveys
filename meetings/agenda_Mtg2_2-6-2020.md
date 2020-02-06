@@ -24,6 +24,11 @@ February 6<sup>th</sup>, 2020
 
   - Timeline
 
+    * Define milestones and set project timeline
+
+    * Allow at least 2 weeks after finalizing question design for volunteer
+      translators
+
   - Next steps / future communication / action items
 
 ## <span class="underline">Questionnaire platform</span>
