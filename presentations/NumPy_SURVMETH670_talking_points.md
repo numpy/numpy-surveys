@@ -111,7 +111,7 @@ How do beginners connect with mentors within the open source community?
 
 #### Translations
 
-Our goal is to write the survey instrument with global audiences in mind and avoid North American -centric concepts or terminology. Furthermore, we will make the survey available in the following languages: English, Spanish, Portuguese, Russian, Hindi, Chinese, and Japanese. Responses in English for the open questions will be encouraged for easy survey processing.
+Our goal is to write the survey instrument with global audiences in mind and avoid North American -centric concepts or terminology. Furthermore, we will make the survey available in the following languages: English, Spanish, Portuguese, Russian, Hindi, Mandarin, and Japanese. Responses in English for the open questions will be encouraged for easy survey processing.
 
 <br>
 
