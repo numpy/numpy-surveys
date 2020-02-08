@@ -40,7 +40,7 @@ Responses in English for the open questions will be encouraged for easy survey p
 
 <h2>Call for Contributions</h2>
 <p>We are looking for volunteers experienced in survey design and translating English into Spanish, Portuguese, 
-Russian, Hindi, Chinese and other languages.</p>
+Russian, Hindi, Mandarin and other languages.</p>
 
 <p>If you’d like to learn more about these volunteer opportunities, or additional ways to support NumPy, feel free 
 to reach out to our community coordinators at <b>numpy-team@googlegroups.com</b> or <br>join us on Slack <b>numpy-team.slack.com</b> 
