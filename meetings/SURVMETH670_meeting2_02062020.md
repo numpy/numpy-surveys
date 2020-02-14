@@ -84,6 +84,7 @@ Allow two weeks for the translations to be completed by the volunteers.
 
 
 
-1. Email to Inessa and Ross invitations to test accessibility to view/edit the survey questionnaire on Qualtrics.
-2. Both SURVMETH & NumPy teams will investigate the Qualtrics data collection policies.
-3. The first draft of the questionnaire is to be completed by SMT by Feb, 14th, 2020.  
+ - [x] Email to Inessa and Ross invitations to test accessibility to view/edit the survey questionnaire on Qualtrics.
+ - [ ] Both SURVMETH & NumPy teams will investigate the Qualtrics data collection policies.
+ - [x] The first draft of the questionnaire is to be completed by SMT by Feb, 14th, 2020.  
+   * Draft available [here](https://docs.google.com/document/d/1OEu4qStk2NBmyE9yVpywlJi8R-88djaOsQWgI-PWQhY/edit?usp=sharing)

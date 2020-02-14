@@ -77,16 +77,17 @@ Interesting discussion around sampling techniques (e.g. "cluster sampling") to t
 
 
 # Action items
- - [ ] Set up meeting for next week (aim for PM of Thurs. 2/6) with SMT and Ross+Inessa
+ - [x] Set up meeting for next week (aim for PM of Thurs. 2/6) with SMT and Ross+Inessa
+   * See [meeting 2 minutes](https://github.com/numpy/numpy-surveys/blob/master/meetings/SURVMETH670_meeting2_02062020.md)
 
 Before the next meeting, the NumPy team will:
- - [ ] Brainstorm on survey release timeline and mechanism to provide more 
+ - [x] Brainstorm on survey release timeline and mechanism to provide more 
        clarity to the SMT.
- - [ ] Discuss the merits of a pilot study, and whether there is a group that
+ - [x] Discuss the merits of a pilot study, and whether there is a group that
        could be used for the pilot.
 
 Before the next meeting, the SMT will:
- - [ ] Take a first pass at the [sample questionnaire](https://github.com/numpy/numpy-surveys/blob/master/NumPy-survey-questionnaire.md) to begin 
+ - [x] Take a first pass at the [sample questionnaire](https://github.com/numpy/numpy-surveys/blob/master/NumPy-survey-questionnaire.md) to begin 
        the process of formalizing the questionnaire. Specific questions and 
        feedback welcome.
-       
+   * First draft available [here](https://docs.google.com/document/d/1OEu4qStk2NBmyE9yVpywlJi8R-88djaOsQWgI-PWQhY/edit?usp=sharing)
