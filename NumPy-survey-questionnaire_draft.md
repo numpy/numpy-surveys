@@ -1,3 +1,10 @@
+# NOTE: The most current draft has moved!
+
+There exists a current draft that incorporates (and improves upon) this 
+questionnaire.
+It can be found [here](https://docs.google.com/document/d/1OEu4qStk2NBmyE9yVpywlJi8R-88djaOsQWgI-PWQhY/edit?usp=sharing).
+Please use the commenting/suggesting feature to provide feedback.
+
 <h1>NumPy Community Survey Questionnaire</h1>
 <p>This survey shall have up to 40 questions, mainly close-ended to allow easy processing, and take 5-10 minutes to complete.</p>
 
