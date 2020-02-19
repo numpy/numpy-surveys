@@ -85,15 +85,15 @@
 <p>Yes 
 <br>No</p>
 <br>
-<h4>What prevents you from contributing to NumPy?</h4>
+<h4>Would you like to become a contributor to NumPy?</h4>
+<p>Yes
+<br>No</p>
+<br>
+<h4>If yes, what prevents you from contributing to NumPy right away?</h4>
 <p>Lack of time
 <br>Lack of experience
 <br>Lack of interest
 <br>I don’t know where to start</p>
-<br>
-<h4>Would you like to become a contributor to NumPy?</h4>
-<p>Yes
-<br>No</p>
 <br>
 <h3>PROJECT PRIORITIES</h3>
 <h4>What do you consider a high priority for the NumPy project for the next 12 months?</h4>
