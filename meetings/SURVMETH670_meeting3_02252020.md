@@ -11,7 +11,7 @@
 
 **1. Questionnaire comments**
 
-A lot of meaningful comments and suggestions were sumbitted to the first draft of the survey questionnaire. SMT has incorporated the feedback into the v2.0 document: https://docs.google.com/document/d/1nbTH-mnLiQM9Bd77i_h3WG7qTaEbQDOOul1xXQ37bCw/edit?usp=sharing
+A lot of meaningful comments and suggestions were submitted to the first draft of the survey questionnaire. SMT has incorporated the feedback into the v2.0 document: https://docs.google.com/document/d/1nbTH-mnLiQM9Bd77i_h3WG7qTaEbQDOOul1xXQ37bCw/edit?usp=sharing
 
 Some questions require additional input from the NumPy Team. Ross and Inessa will address them ASAP.
 
@@ -22,7 +22,7 @@ Some questions require additional input from the NumPy Team. Ross and Inessa wil
 _Deliverables by SMT:_
 
 *   Fielding instructions
-*   Sampling plan 
+*   Sampling plan
 
 The pretesting to be completed before the next NumPy community meeting on March, 5th, 2020.
 
