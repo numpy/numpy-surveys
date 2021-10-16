@@ -1,2 +1,2 @@
-# Inaugural NumPy Community Survey
-The final version of the 2020 NumPy community survey questionnaire can be found **[here](https://docs.google.com/document/d/1M-niFpAMEjLPNFUA2RLgi_p2ykoDlzSlFyUaoDEDOLc/edit?usp=sharing)**.
+# 2021 NumPy user survey is closed.
+If you have any questions or suggestions for the past or future surveys, please open an issue in this repository.
