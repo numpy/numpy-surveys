@@ -16,8 +16,11 @@ In July 2021, the NumPy Survey Team invited all NumPy stakeholders to share abou
 
 ## Glossary
 Throughout this report, you’ll see a few key terms and phrases come up. These provide a consistent framework for how we collect and describe our data within the report.
+
 COMMUNITY: For the purpose of this report, the terms "NumPy community" or "community" comprise everyone who uses NumPy, regardless of their activity.
+
 LOCATION: Country information for users is based on the responses submitted by the survey participants.
+
 NUMPY USERS: Anyone who uses NumPy, regardless of their activity, and participated in this survey.
 
 ## Community
@@ -138,7 +141,7 @@ Over 70% of NumPy users choose English as the preferred language of communicatio
 | 5%           | India, Japan, United Kingdom                                                                           |
 | 3%           | Brazil, Czech Republic, Netherlands                                                                    |
 | 2%           | Spain, China, Australia, Austria Canada, Poland                                                        |
-| 1%           | Argentina, Peru, Russia, Singapore Switzerland, Turkey, Belgium, Chile, Finland, Israel, Italy, Sweden |
+| 1%           | Argentina, Peru, Russia, Singapore, Switzerland, Turkey, Belgium, Chile, Finland, Israel, Italy, Sweden |
 
 NumPy is a true global open source project. In fact, almost three quarters of survey participants come from outside of the United States. In total, we reached NumPy users living in 54 different countries. 
 
@@ -162,9 +165,8 @@ One in three respondents shares their code with only 1-2 people; one in four,  w
 
 ### NumPy Version
 #### What version of NumPy are you currently using?
-![A bar chart that measures percentage of respondents by NumPy version. In descending order, the categories are NumPy 1.18, Other, I regularly use multiple versions, Not sure, NumPy 1.17, A development version, NumPy 1.16 and NumPy 1.15.](images\report_images_2021\Development_Features_and_Deprecation\2.10_numpy_version.svg](https://user-images.githubusercontent.com/46167686/158427500-773e789a-71d1-4b12-b121-d5c3f729f4d5.svg)
-27% of survey participants use NumPy version 1.18; 
-22% use multiple versions on a regular basis.
+![A bar chart that measures percentage of respondents by NumPy version. In descending order, the categories are NumPy 1.18, Other, I regularly use multiple versions, Not sure, NumPy 1.17, A development version, NumPy 1.16 and NumPy 1.15.](https://user-images.githubusercontent.com/46167686/158486475-42802fa9-5416-44c7-80f7-b6effffce93d.svg)
+27% of survey participants use NumPy version 1.18; 22% use multiple versions on a regular basis.
 
 ### NumPy Components
 #### Which components of NumPy do you use regularly? Please select all that apply.
@@ -266,31 +268,31 @@ Only 13% of the 2021 respondents participated in the previous year’s survey.
 The 2021 NumPy user survey is an effort of an international group of volunteers. Each is listed alphabetically by type of contribution.
 
 ### Survey Design and Analysis
-Pantelis Antonoudiou
-Ross Barnowski
-Sebastian Berg
-Ralf Gommers
-Rohit Goswami
-Melissa Mendonça
-Stephanie Mendoza
-Aerik Pawson
-Inessa Pawson
+- Pantelis Antonoudiou
+- Ross Barnowski
+- Sebastian Berg
+- Ralf Gommers
+- Rohit Goswami
+- Melissa Mendonça
+- Stephanie Mendoza
+- Aerik Pawson
+- Inessa Pawson
 
 ### Translations
-Xiaoyi Deng
-Kiko Correoso Garcia
-Paul Ivanov
-Guilherme Leobas
-Mahfuza Humayra Mohona 
-Aerik Pawson
-Zijie Poh
-Atsushi Sakai
-Fabrice Silva
-Kriti Singh 
+- Xiaoyi Deng
+- Kiko Correoso Garcia
+- Paul Ivanov
+- Guilherme Leobas
+- Mahfuza Humayra Mohona 
+- Aerik Pawson
+- Zijie Poh
+- Atsushi Sakai
+- Fabrice Silva
+- Kriti Singh 
 
 ### Special thanks 
-Mars Lee
-The Berkeley Institute for Data Science (UC Berkeley)
+- Mars Lee
+- The Berkeley Institute for Data Science (UC Berkeley)
 
 ## Methodology
 Over 500 NumPy users from 54 countries participated in this online survey, which was fielded from July 8th to September 6th, 2021. Respondents were recruited via the NumPy mailing list, the NumPy Slack channel, the banner display on the numpy.org homepage, the NumFOCUS newsletter, announcements at the SciPy’21 conference, and via Twitter.
