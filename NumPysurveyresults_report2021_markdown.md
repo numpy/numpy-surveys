@@ -96,12 +96,13 @@ When it comes to other open source projects, every second survey participant has
 ![A bar chart that measures percentage of respondents by projects they have contributed to. In descending order, the categories are Other, SciPy, Matplotlib, Pandas, scikut-learn, PyTorch, scikit-image, Dask, Tensorflow, Xarray, NLTK, CuPy, Statsmodels, spaCy, PyMC3, Gensim. The top three categories is 70% Other, 22% SciPy, 21% Matplotlib.](images\report_images_2021\Community_Contribution_to_Open_Source\3.3_projects_contributed_to.svg)
 
 #### What initially led to your contributing to NumPy? Please select all that apply.
-![3 4_ways_contribute_projects](https://user-images.githubusercontent.com/46167686/158425971-0a205de8-4daf-41e2-ba9c-00dde336a468.svg)
+![4 4_initially_contributing_to_numpy](https://user-images.githubusercontent.com/46167686/158428696-115fe767-bd0a-4a7f-b9a2-f1bdec6cfde4.svg)
 
 ![A bar chart that measures percentage of respondents by initial factor. In descending order, the categories are I am an expert of the open-source software to which I contribute, Other, I was invited by someone from the core project team, School/University/Conference, Search engines/technical review/forum/blog/advertising, Social network/friend/colleague.](images\report_images_2021\Community_Contribution_to_Open_Source\3.4_ways_contribute_projects.svg)
 
 #### How did you initially get involved with these (non-NumPy) projects? Please select all that apply.
-![3 6_initially_contributing_to_open_source](https://user-images.githubusercontent.com/46167686/158426031-f8ee4bc0-fa21-4a30-9f13-4949ca7474a2.svg)
+![3 6_initially_contributing_to_open_source](https://user-images.githubusercontent.com/46167686/158428892-37b625c8-05da-4894-93f2-3ec4c740b472.svg)
+
 
 ![A bar chart that measures percentage of respondents by initial factor. In descending order, the categories are I am an expert of the open-source software to which I contribute, Other, School/University/Conference, Search engines/technical review/forum/blog/advertising, I was invited by someone from the core project team, and Social network/friend/colleague.](images\report_images_2021\Community_Contribution_to_Open_Source\3.4_ways_contribute_projects.svg)
 Curious what initially led these NumPy users to contributing to open source? Half of them identify as experts in NumPy. A similar pattern is found in the 
@@ -123,8 +124,7 @@ In both instances, one in five respondents contributed to educational content an
 
 #### What are your motivations for contributing to NumPy? Please select all that apply.
 ![4 5_motivations_contributing_numpy](https://user-images.githubusercontent.com/46167686/158427212-0676f609-9721-44a4-8835-2df013379bf6.svg)
-
-![](images\report_images_2021\Community_Contribution_to_Open_Source\4.5_motivations_contributing_numpy.svg)
+(images\report_images_2021\Community_Contribution_to_Open_Source\4.5_motivations_contributing_numpy.svg)
 Giving back to the scientific community, promoting open source culture, and advancing scientific research are the top three reasons for respondents to contribute to NumPy.
 
 #### Are you interested in contributing to NumPy?
