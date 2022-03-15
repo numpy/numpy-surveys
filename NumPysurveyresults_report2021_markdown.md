@@ -59,21 +59,19 @@ Eight out of ten survey participants are interested in contributing to open sour
 
 ### Contributing to NumPy
 #### Have you ever contributed to NumPy? 
-![A donut chart. 88% of respondents say Yes. 12% of respondents say No.](https://user-images.githubusercontent.com/46167686/158425752-aaaf9002-4d4b-4c0c-a46d-1d45df44b3a4.svg)
-<img src="https://user-images.githubusercontent.com/46167686/158425706-5c3178c5-22f2-4631-a68d-842baafe08da.svg" alt="A donut chart. 88% of respondents say Yes. 12% of respondents say No.. 80% of respondents say Yes. 20% of respondents say No." width=300>
+<img src="https://user-images.githubusercontent.com/46167686/158425752-aaaf9002-4d4b-4c0c-a46d-1d45df44b3a4.svg" alt="A donut chart. 88% of respondents say Yes. 12% of respondents say No.. 80% of respondents say Yes. 20% of respondents say No." width=300>
 
 #### Are you a regular contributor to NumPy?
-![A donut chart. 33% of respondents say Yes. 67% say No.](https://user-images.githubusercontent.com/46167686/158425774-93da8bde-37f2-40e4-be83-6032ebf45b82.svg)
-<img src="https://user-images.githubusercontent.com/46167686/158425706-5c3178c5-22f2-4631-a68d-842baafe08da.svg" alt="A donut chart. 33% of respondents say Yes. 67% say No." width=300>
+<img src="https://user-images.githubusercontent.com/46167686/158425774-93da8bde-37f2-40e4-be83-6032ebf45b82.svg" alt="A donut chart. 33% of respondents say Yes. 67% say No." width=300>
+
 12% of survey participants have contributed to NumPy and one in three of those contributes regularly.
 
 #### Have you ever contributed to any open source project before, excluding NumPy?
-![A donut chart. 51% of respondents say Yes. 49% say No.](https://user-images.githubusercontent.com/46167686/158425891-bcb0171c-c8be-4f47-9a73-b0458fa1f3a6.svg)
-<img src="https://user-images.githubusercontent.com/46167686/158425706-5c3178c5-22f2-4631-a68d-842baafe08da.svg" alt="A donut chart. 51% of respondents say Yes. 49% say No. 80% of respondents say Yes. 20% of respondents say No." width=300>
+<img src="https://user-images.githubusercontent.com/46167686/158425891-bcb0171c-c8be-4f47-9a73-b0458fa1f3a6.svg" alt="A donut chart. 51% of respondents say Yes. 49% say No. 80% of respondents say Yes. 20% of respondents say No." width=300>
 
 ####  Are you a regular contributor to these open source projects? 
-![A donut chart. 38% of respondents say Yes. 62% say No.](https://user-images.githubusercontent.com/46167686/158425909-30c61b5a-2e34-495d-a5a7-ec3b9b92809c.svg)
-<img src="https://user-images.githubusercontent.com/46167686/158425706-5c3178c5-22f2-4631-a68d-842baafe08da.svg" alt="A donut chart. 38% of respondents say Yes. 62% say No." width=300>
+<img src="https://user-images.githubusercontent.com/46167686/158425909-30c61b5a-2e34-495d-a5a7-ec3b9b92809c.svg" alt="A donut chart. 38% of respondents say Yes. 62% say No." width=300>
+
 When it comes to other open source projects, every second survey participant has contributed at least once, mainly to the projects within the Python ecosystem, and one in four of them contributes to these projects on a regular basis.
 
 #### Which project(s) have you contributed to? Please select all that apply.
@@ -102,12 +100,11 @@ In both instances, one in five respondents contributed to educational content an
 Giving back to the scientific community, promoting open source culture, and advancing scientific research are the top three reasons for respondents to contribute to NumPy.
 
 #### Are you interested in contributing to NumPy?
-![A donut chart. 60% of respondents say Yes. 40% say No.](https://user-images.githubusercontent.com/46167686/158427238-e1889171-3e92-47af-a5c5-92bc68dbf0d9.svg)
-<img src="https://user-images.githubusercontent.com/46167686/158425706-5c3178c5-22f2-4631-a68d-842baafe08da.svg" alt="A donut chart. 60% of respondents say Yes. 40% say No." width=300>
+<img src="https://user-images.githubusercontent.com/46167686/158427238-e1889171-3e92-47af-a5c5-92bc68dbf0d9.svg" alt="A donut chart. 60% of respondents say Yes. 40% say No." width=300>
 
 #### Do you plan to continue making contributions to NumPy?
-![A donut chart. 93 % of respondents say Yes. 7% say No.](https://user-images.githubusercontent.com/46167686/158427270-a7e21140-dc6a-408e-be24-16dee7963afb.svg)
-<img src="https://user-images.githubusercontent.com/46167686/158425706-5c3178c5-22f2-4631-a68d-842baafe08da.svg" alt="A donut chart. 93 % of respondents say Yes. 7% say No." width=300>
+<img src="https://user-images.githubusercontent.com/46167686/158427270-a7e21140-dc6a-408e-be24-16dee7963afb.svg" alt="A donut chart. 93 % of respondents say Yes. 7% say No." width=300>
+
 93% of casual NumPy contributors and 100% of those who identify themselves as regulars plan to continue making contributions to the project.
 
 #### In what ways would you be interested in contributing to NumPy? Please select all that apply. 
@@ -176,14 +173,14 @@ Random number generator and linear algebra are the most used NumPy sub-packages.
 
 ### Custom C Extensions
 #### Do you or your organization have custom C extensions making use of the NumPy C-API (aside from Cython)?
-![A donut chart. 11% of respondents say Yes. 89% say No.](https://user-images.githubusercontent.com/46167686/158427558-81bc3839-2dee-41b1-8560-472ca2aa52c9.svg)]
-<img src="https://user-images.githubusercontent.com/46167686/158425706-5c3178c5-22f2-4631-a68d-842baafe08da.svg" alt="A donut chart. 11% of respondents say Yes. 89% say No." width=300>
+<img src="https://user-images.githubusercontent.com/46167686/158427558-81bc3839-2dee-41b1-8560-472ca2aa52c9.svg" alt="A donut chart. 11% of respondents say Yes. 89% say No." width=300>
+
 11% have custom C extensions making use of the NumPy C-API.
 
 ### New Random API
 #### NumPy version 1.17 introduced a new API to NumPy’s random package. Are you currently using the new random API?
-![A donut chart. 41% of respondents say Yes. 59% say No.](https://user-images.githubusercontent.com/46167686/158427603-5c4c1579-3e91-4894-b469-ab3e40186a68.svg)
-<img src="https://user-images.githubusercontent.com/46167686/158425706-5c3178c5-22f2-4631-a68d-842baafe08da.svg" alt="A donut chart. 41% of respondents say Yes. 59% say No." width=300>
+<img src="https://user-images.githubusercontent.com/46167686/158427603-5c4c1579-3e91-4894-b469-ab3e40186a68.svg" alt="A donut chart. 41% of respondents say Yes. 59% say No." width=300>
+
 41% of respondents use the new random API. 
 
 ### Challenges and Solutions
@@ -261,8 +258,8 @@ The comments about the NumPy documentation in response to this question largely 
 Nearly half of respondents heard about the survey on Twitter, and one in four found out about it through the announcement on the numpy.org home page.
 
 #### Did you respond to last year's NumPy Community Survey (2020)?
-![A donut chart. 13% of respondents say Yes. 12% of respondents say Not sure. 75% of respondents say No.](https://user-images.githubusercontent.com/46167686/158427865-21a3a2bf-3193-4c6d-8a61-546a0361d458.svg)
-<img src="https://user-images.githubusercontent.com/46167686/158425706-5c3178c5-22f2-4631-a68d-842baafe08da.svg" alt="A donut chart. 13% of respondents say Yes. 12% of respondents say Not sure. 75% of respondents say No." width=300>
+<img src="https://user-images.githubusercontent.com/46167686/158427865-21a3a2bf-3193-4c6d-8a61-546a0361d458.svg" alt="A donut chart. 13% of respondents say Yes. 12% of respondents say Not sure. 75% of respondents say No." width=300>
+
 Only 13% of the 2021 respondents participated in the previous year’s survey.
 
 ## Acknowledgements
